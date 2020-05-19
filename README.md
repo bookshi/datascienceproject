@@ -16,9 +16,14 @@ Consists of working on errors (if any), outputting the final result.
 # This project uses the following Python libraries:
 
 NumPy: For fast matrix operations.
+
 pandas: For analysing and getting insights from datasets.
+
 seaborn: Gor enhancing the style of matplotlib plots. 
+
 matplotlib: For creating graphs and plots. 
+
 Skipy.cluster.hierarchy: For Hierarchical Clustering algorithms group similar objects into groups called clusters. 
+
 AgglomerativeClustering: using the euclidean distance as the measure of distance between points and ward linkage to calculate the proximity of clusters.
 
